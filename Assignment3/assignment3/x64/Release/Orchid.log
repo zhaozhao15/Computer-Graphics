@@ -1,0 +1,12 @@
+﻿  mesh.cpp
+c:\users\赵冬昊\desktop\f\as3\orchid\objects\mesh.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“unsigned long”，可能丢失数据
+c:\users\赵冬昊\desktop\f\as3\orchid\objects\mesh.cpp(25): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+c:\users\赵冬昊\desktop\f\as3\orchid\objects\mesh.cpp(26): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+c:\users\赵冬昊\desktop\f\as3\orchid\objects\mesh.cpp(47): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+c:\users\赵冬昊\desktop\f\as3\orchid\objects\mesh.cpp(227): warning C4267: “初始化”: 从“size_t”转换到“long”，可能丢失数据
+  正在生成代码
+  1 of 1840 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Orchid.vcxproj -> C:\Users\赵冬昊\Desktop\f\as3\x64\Release\Orchid.exe

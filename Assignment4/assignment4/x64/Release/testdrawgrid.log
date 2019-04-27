@@ -1,0 +1,9 @@
+﻿  rigidBody.cpp
+c:\users\赵冬昊\desktop\assignment4_赵冬昊_20096438\rigid\3rdparty\quaternion.h(40): warning C4099: “Vector3d”: 类型名称以前使用“class”现在使用的是“struct”
+  c:\users\赵冬昊\desktop\assignment4_赵冬昊_20096438\rigid\3rdparty\vector.h(65): note: 参见“Vector3d”的声明
+  正在生成代码
+  3 of 107 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  testdrawgrid.vcxproj -> C:\Users\赵冬昊\Desktop\assignment4_赵冬昊_20096438\rigid\x64\Release\testdrawgrid.exe

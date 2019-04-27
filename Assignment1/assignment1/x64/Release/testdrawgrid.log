@@ -1,0 +1,18 @@
+﻿  assignment1.cpp
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\inc\shader_m.h(52): warning C4101: “infoLog”: 未引用的局部变量
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\inc\shader_m.h(51): warning C4101: “success”: 未引用的局部变量
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(109): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(253): warning C4305: “参数”: 从“double”到“GLclampf”截断
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(257): warning C4305: “参数”: 从“double”到“GLfloat”截断
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(337): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(338): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(342): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(343): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(349): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\赵冬昊\documents\computer graphics\assignment1\assignment_赵冬昊_20096438\src\assignment1.cpp(350): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  19 of 20 functions (95.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  testdrawgrid.vcxproj -> C:\Users\赵冬昊\Documents\Computer Graphics\Assignment1\assignment_赵冬昊_20096438\x64\Release\assignment.exe
